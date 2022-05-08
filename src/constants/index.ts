@@ -1,0 +1,17 @@
+export const REGISTER_LOADING = 'REGISTER_LOADING';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGIN_LOADING = 'LOGIN_LOADING';
+export const CLEAR_AUTH_STATE = 'CLEAR_AUTH_STATE';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const MOBILE_NUMBER = 'MOBILE_NUMBER';
+export const DIALCODE = 'DIALCODE';
+export const SET_OTP = 'SET_OTP';
+export const PASSWORD = 'SET_PASSWORD';
+export const PIN_NUMBER = 'PIN_NUMBER';
+export const RE_ENTER_PIN = 'SET_RE_ENTER_PIN';
+export const SET_COUNTRY = 'SET_COUNTRY';
+export const MESSAGE = 'MEESAGE';
+export const ERROR = 'ERROR';

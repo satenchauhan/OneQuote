@@ -1,0 +1,24 @@
+export const HOME_NAVIGATOR = 'Home';
+export const SETTINGS = 'Settings';
+export const LOGIN = 'Login';
+export const REGISTER = 'Register';
+export const LOGOUT = 'LOGOUT';
+export const WORKBOOK = 'Workbook';
+export const CLIENTS = 'Clients';
+export const CLIENT = 'Client';
+export const INFO = 'Info';
+export const REQUESTS = 'Requests';
+export const NOTE = 'Note';
+export const CREATE_NEW_NOTE = 'Create New Note';
+export const JOBS = 'Jobs';
+export const CREATE_NEW_JOB = 'Create New Job';
+export const INVOICE = 'Invoice';
+export const CREATE_NEW_INVOICE = 'Create New Invoice';
+export const PAYMENTS = 'Payments';
+export const QUOTES = 'Quotes';
+export const QUOTE = 'Quote';
+export const CREATE_NEW_QUOTE = 'Create New Quote';
+export const BILLS = 'Bills';
+export const SIGNATURE = 'Signature';
+export const COLLECT_SIGNATURE = 'Collect Signature';
+
