@@ -21,7 +21,7 @@ export const RIGHT_SECTION: ViewStyle = {
 
 export const SPACE: ViewStyle = {
   marginVertical: 10,
-  marginTop: 50,
+  marginTop: 30,
 };
 
 export const HOME_CONTAINER: ViewStyle = {

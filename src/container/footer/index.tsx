@@ -24,16 +24,3 @@ export const FooterContainer = () => {
     </View>
   );
 };
-
-/* <Icon
-        type="material"
-        name="chat-bubble-outline"
-        size={25}
-        color={color.dark}
-        style={{
-          position: 'absolute',
-          right: 28,
-          top: 18,
-          transform: [{scaleX: -1}],
-        }}
-      /> */

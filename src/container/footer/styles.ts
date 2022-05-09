@@ -5,6 +5,8 @@ import {ROW_SPACE} from '../../utils';
 export const FOOTER_MAIN: ViewStyle = {
   flexDirection: 'row',
   justifyContent: 'space-between',
+  marginTop: -20,
+  marginBottom: 100,
 };
 
 export const FOOTER_BUTTON: ViewStyle = {
@@ -26,10 +28,6 @@ export const TITLE: TextStyle = {
   marginBottom: 10,
 };
 
-export const MAIN: ViewStyle = {
-  flex: 1,
-  marginBottom: 140,
-};
 export const CIRCLE_BOX: ViewStyle = {
   ...ROW_SPACE,
   marginTop: 30,
